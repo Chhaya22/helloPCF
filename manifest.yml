@@ -1,5 +1,5 @@
 applications:
-- name: greenVersion2_PCF
-  path: ./green-version2.jar
+- name: helloPCF_Jenkins
+  path: ./helloPCF-0.0.1-SNAPSHOT.jar
   memory: 700M
   instances: 1
