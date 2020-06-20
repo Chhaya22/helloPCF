@@ -1,5 +1,5 @@
 applications:
 - name: helloPCF_Jenkins
-  path: C:\WINDOWS\system32\config\systemprofile\.m2\repository\com\gl\helloPCF\0.0.1-SNAPSHOT\helloPCF-0.0.1-SNAPSHOT.jar
+  path: traget\helloPCF-0.0.1-SNAPSHOT.jar
   memory: 700M
   instances: 1
